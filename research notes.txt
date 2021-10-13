@@ -1,0 +1,5 @@
+Get airbnb permit data from nashville data
+get demographics data
+get zipcode data
+get busline data from last geo project
+possibly also hotel data

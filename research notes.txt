@@ -3,3 +3,7 @@ get demographics data
 get zipcode data
 get busline data from last geo project
 possibly also hotel data
+
+number of scooters 50ft away from a bus stop on average by zip code
+
+number of scooters on average in a given zip code, overlayed with demographic data

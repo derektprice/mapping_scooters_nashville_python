@@ -7,3 +7,9 @@ possibly also hotel data
 number of scooters 50ft away from a bus stop on average by zip code
 
 number of scooters on average in a given zip code, overlayed with demographic data
+
+Derek: Scooters in Promise zones
+Austin W: Path of a scooter
+Sara: 3 trips per day
+Lesley: scooters per sq mile
+Austin P: Looking into companies

@@ -1,3 +1,16 @@
+# Project Summary
+In this team project, we analyzed locational metadata from several private scooter companies operating in Nashville. We were tasked with investigating whether or not scooters were being used in accordance with Metro Nashville's transportation goals. My contribution to my group's analysis was focused on determining whether or not scooters were actually available within Nashville's [Promise Zones](http://www.nashville-mdha.org/the-nashville-promise-zone/). After creating time-segmented data "snapshots" of scooter location data, I used GeoPandas and matplotlib to produce a series of animated gifs showing the availability of scooters on several different days in Nashville (Saturdays, Tuesdays, and one holiday, 4th of July).
+
+#### Thursday, July 4th, 2019
+![july4th](presentation_stuff/Animations/July_4_animated_png.png)
+
+#### Tuesday, May 14th, 2019
+![july4th](presentation_stuff/Animations/may_14_apng.png)
+
+The project, the data, and the data questions are described in more detail, below.
+
+<hr>
+
 ## Transportation Planning for Nashville: How Many Scooters are Optimal?
  What is the ideal density of available scooters to:
 1.  Enable scooters to serve our transportation goals

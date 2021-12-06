@@ -1,0 +1,44 @@
+Get airbnb permit data from nashville data
+get demographics data
+get zipcode data
+get busline data from last geo project
+possibly also hotel data
+
+number of scooters 50ft away from a bus stop on average by zip code
+
+number of scooters on average in a given zip code, overlayed with demographic data
+
+Derek: Scooters in Promise zones
+Austin W: Path of a scooter
+Sara: 3 trips per day
+Lesley: scooters per sq mile
+Austin P: Looking into companies
+
+
+What I have:
+
+A dict of geodfs of continous, variable time segmentation. Currently, it works by hour for one day.
+
+What I can make:
+
+- Line graph showing change over time for each zone for same days as gifs
+- Gif of zones with dots for scoots in promise zones
+
+Dates:
+
+May 11 - Saturday - done
+May 14 - Tuesday - done
+
+June 8 - Saturday - done
+June 11th - Tuesaday - done
+
+July 13 - Saturday - done
+July 16 - Tuesday - done
+July 4 - Thursday (bonus, holiday) - done!
+
+Animated PNGs/GIFs - DONE
+
+Charts
+
+
+
